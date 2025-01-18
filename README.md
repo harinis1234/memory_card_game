@@ -29,9 +29,9 @@ A fun and interactive memory card game built using **HTML**, **CSS**, and **Java
 
 ## Technologies used
 
-   1.HTML: To create the structure of the game.
-   2.CSS: For styling the game layout, cards, and animations.
-   3.JavaScript: Game logic (shuffling, matching, and event handling) and timer implementation
+1. HTML: To create the structure of the game.
+2. CSS: For styling the game layout, cards, and animations.
+3. JavaScript: Game logic (shuffling, matching, and event handling) and timer implementation
 
 ## Screenshots
 
