@@ -27,6 +27,11 @@ A fun and interactive memory card game built using **HTML**, **CSS**, and **Java
 5. If you want to stop the game in the middle, just click Stop game button. 
 6. You will start the game whenever you are ready by clicking the new game button.
 
+   ##Technologies used
+
+   1.HTML: To create the structure of the game.
+   2.CSS: For styling the game layout, cards, and animations.
+   3.JavaScript: Game logic (shuffling, matching, and event handling) and timer implementation
 
 ## Screenshots
 
